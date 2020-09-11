@@ -1,0 +1,39 @@
+{
+  "name": "NIGeuh",
+  "version": "1.2.0",
+  "main": "index.js",
+  "dependencies": {
+    "better-sqlite3": "^6.0.1",
+    "canvas": "^2.6.0",
+    "captchagen": "^1.2.0",
+    "discord.js": "^12.2.0",
+    "enmap": "^5.2.4",
+    "express": "^4.16.3",
+    "jimp": "^0.12.0",
+    "mee6-levels-api": "^1.1.0",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "nekos.life": "^2.0.7",
+    "nhentai-api-js": "^1.1.4",
+    "nhentai-js": "^4.0.0",
+    "node-fetch": "^2.6.0",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.7",
+    "randomatic": "^3.0.0",
+    "sequest": "^0.10.0",
+    "tmi.js": "^1.5.0",
+    "translate": "^1.1.2",
+    "util": "^0.11.0",
+    "ytdl-core": "^2.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.0.0"
+  },
+  "author": "okna",
+  "license": "ISC",
+  "description": ""
+}

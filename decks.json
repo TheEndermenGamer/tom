@@ -1,0 +1,10 @@
+{"basic" : {
+  "description" : "C'est le deck de base negro",
+  "action" : ["Saute 5 fois pour absolument aucune raison"],
+  "truth" : ["Quel est le truc qui te faire rire jusqu'à en mourir ?"]
+},
+"nigger_deck" : {
+  "description" : "C'est le deck des esclaves",
+  "action" : ["Fais le cri du singe pendant 5 tours", "Tape \"noir\" et mets en pp le 15ème résultat que tu viens d'avoir", "Travaille 1 heure en moins ajd (ça te fait que 23h bg ça)","Imite un blanc", "Tu peux te reposer pendant ce tour."],
+  "truth" : ["Quel est ton pire souvenir d'esclavage ?", "Quel est le blanc que tu détestes le plus ?", "Qu'est ce que tu aimes de blanc a part le sperme ?","Est ce que quand on éteins la lumière bah tu vois noir ?"]
+}}
